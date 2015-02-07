@@ -1,7 +1,7 @@
 # Android-BrandColors
 
 
-**Android-BrandColors** is a collection of brand colors collected from [BrandColors](http://brandcolors.net/) website, packaged in one xml file to be used in directly in your Android projects.
+**Android-BrandColors** is a collection of brand colors collected from [BrandColors](http://brandcolors.net/) website, packaged in one xml file to be used directly in your Android projects.
 
 #### How i can use Android-BrandColors in my project ?####
 
